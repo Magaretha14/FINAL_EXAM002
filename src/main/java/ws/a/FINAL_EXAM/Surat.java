@@ -21,7 +21,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author ASUS
+ * @author Magaretha Wahyunda Syahputri
+ * NIM : 20200140002
  */
 @Entity
 @Table(name = "surat")

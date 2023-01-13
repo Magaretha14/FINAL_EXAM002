@@ -19,7 +19,8 @@ import ws.a.FINAL_EXAM.exceptions.PreexistingEntityException;
 
 /**
  *
- * @author ASUS
+ * @author Magaretha Wahyunda Syahputri
+ * NIM : 20200140002 
  */
 public class SuratJpaController implements Serializable {
 

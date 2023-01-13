@@ -20,7 +20,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author ASUS
+ * @author Magaretha Wahyunda Syahputri
+ * NIM : 20200140002
  */
 @RestController
 @CrossOrigin
